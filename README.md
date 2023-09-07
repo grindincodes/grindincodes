@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hyeonseok</h1>
 <h3 align="center">Backend developer</h3>
 
-- 🔭 I’m currently working on [tutorhelper](https://github.com/SpringBeam/tutorHelper_BE)
+- 🔭 I’m currently working on [tutorhelper](https://github.com/SpringBeam/tutorHelper_BE), on google play verification ...
 
 - 🌱 I’m currently learning **React Native, Docker**
 
