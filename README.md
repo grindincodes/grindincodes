@@ -27,20 +27,23 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
-<h4> - Devops (CI/CD, WS) </h4>
+<h4> - Devops (CI/CD, WS), AWS Cloud </h4>
     <div style="float:left;">
-      <img src="https://img.shields.io/badge/Github Actions-gray?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-      <img src="https://img.shields.io/badge/Code Deploy-gray?style=for-the-badge&logo=amazonaws&logoColor=4053D6"/>
-      <img src="https://img.shields.io/badge/Nginx-gray?style=for-the-badge&logo=nginx&logoColor=009639"/>
-      <img src="https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/Github Actions-white?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+      <img src="https://img.shields.io/badge/Code Deploy-white?style=for-the-badge&logo=amazonaws&logoColor=4053D6"/>
+      <img src="https://img.shields.io/badge/Nginx-white?style=for-the-badge&logo=nginx&logoColor=009639"/>
+      <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/EC2-white?style=for-the-badge&logo=amazonec2&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/S3-white?style=for-the-badge&logo=amazons3&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/RDS-white?style=for-the-badge&logo=amazonrds&logoColor=2496ED"/>
     </div>
 <h4> - DB, ML, Crawling, OS ... </h4>
     <div style="float:left;">
-      <img src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-      <img src="https://img.shields.io/badge/SQLite-gray?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
-      <img src="https://img.shields.io/badge/Pandas-gray?style=for-the-badge&logo=pandas&logoColor=150458"/>
-      <img src="https://img.shields.io/badge/Selenium-gray?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
-      <img src="https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-      <img src="https://img.shields.io/badge/Firebase Cloud Messaging-gray?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-      <img src="https://img.shields.io/badge/Jquery-gray?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+      <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+      <img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+      <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=150458"/>
+      <img src="https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
+      <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+      <img src="https://img.shields.io/badge/Firebase Cloud Messaging-white?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+      <img src="https://img.shields.io/badge/Jquery-white?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
     </div>
