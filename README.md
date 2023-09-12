@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tutorhelper](https://github.com/SpringBeam/tutorHelper_BE), app on google play verification ...
 
-- 🌱 I’m currently learning **React Native, Docker**
+- 🌱 I’m currently learning **React, Docker**
 
 - 📫 How to reach me **kcx10000@gmail.com**
 
