@@ -51,6 +51,7 @@
 <h4> - DB, ML, Crawling, OS ... </h4>
     <div style="float:left;">
       <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+      <img src="https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=003545"/>
       <img src="https://img.shields.io/badge/SQLite-white?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
       <img src="https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=150458"/>
       <img src="https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&logoColor=43B02A"/>
