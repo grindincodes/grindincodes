@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hyeonseok</h1>
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Infra Engineer / Backend developer</h3>
 
-- 🔭 I’m currently working on [tutorhelper](https://github.com/SpringBeam/tutorHelper_BE), app on google play verification ...
+-  Tutorhelper application:
+  [tutorhelper](https://github.com/SpringBeam/tutorHelper_BE), app on google play.
+
 
 - 🌱 I’m currently learning **On-premise Architecture, Kubernetes**
 
@@ -13,7 +15,7 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-<h4> - Infra Architect</h4>
+<h4> - Infra Architect🏅</h4>
 <a href="https://www.credly.com/badges/12e259e2-b0a9-4b57-9bdb-2cb09a327935/public_url"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/></a>
 <h4> - Programming Languages</h4>
 <p align="left">
@@ -31,15 +33,20 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h4> - Devops (CI/CD, WS), AWS Cloud </h4>
+<h4> - Devops (Container Ochestration, CI/CD, Monitoring, Multi-tier Architect), AWS Cloud </h4>
     <div style="float:left;">
+      <img src="https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+      <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+      <img src="https://img.shields.io/badge/Nginx-white?style=for-the-badge&logo=nginx&logoColor=009639"/>
+      <img src="https://img.shields.io/badge/Apache-white?style=for-the-badge&logo=apache&logoColor=D22128"/>
+      <img src="https://img.shields.io/badge/amazoncloudwatch-white?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B"/>
       <img src="https://img.shields.io/badge/Github Actions-white?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
       <img src="https://img.shields.io/badge/Code Deploy-white?style=for-the-badge&logo=amazonaws&logoColor=4053D6"/>
-      <img src="https://img.shields.io/badge/Nginx-white?style=for-the-badge&logo=nginx&logoColor=009639"/>
-      <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/EC2-white?style=for-the-badge&logo=amazonec2&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/S3-white?style=for-the-badge&logo=amazons3&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/RDS-white?style=for-the-badge&logo=amazonrds&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/Cloudfront, ALB, Prowler, ...-green"/>
     </div>
 <h4> - DB, ML, Crawling, OS ... </h4>
     <div style="float:left;">
