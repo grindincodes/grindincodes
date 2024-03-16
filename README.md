@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Hyeonseok</h1>
 <h3 align="center">Backend developer</h3>
 
-[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="12e259e2-b0a9-4b57-9bdb-2cb09a327935" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/badges/12e259e2-b0a9-4b57-9bdb-2cb09a327935/public_url)
-
 - 🔭 I’m currently working on [tutorhelper](https://github.com/SpringBeam/tutorHelper_BE), app on google play verification ...
 
-- 🌱 I’m currently learning **Kubernetes, AWS SAA**
+- 🌱 I’m currently learning **On-premise Architecture, Kubernetes**
 
 - 📫 How to reach me **kcx10000@gmail.com**
+
+
 
 <p align="left">
 </p>
 
 <h3 align="left">Tech Stack:</h3>
+<h4> - Infra Architect</h4>
+<a href="https://www.credly.com/badges/12e259e2-b0a9-4b57-9bdb-2cb09a327935/public_url"><img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/></a>
 <h4> - Programming Languages</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
