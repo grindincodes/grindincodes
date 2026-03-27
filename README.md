@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hyeonseok</h1>
-<h3 align="center">Infra Engineer / Backend developer</h3>
-
--  Tutorhelper application:
-  [tutorhelper](https://github.com/SpringBeam/tutorHelper_BE), app on google play.
-
-
-- 🌱 I’m currently learning **On-premise Architecture, Kubernetes**
+<h3 align="center"> Backend developer </h3>
 
 - 📫 How to reach me **kcx10000@gmail.com**
+
+- working on samsung electronics
+
+
+
+
+
+
+
+
+
+
 
 
 
